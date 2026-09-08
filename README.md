@@ -1,6 +1,6 @@
 # RPA-BASICS
 
-UiPath RPA fundamentals — daily practice workflows built as part of PEPC-10 (Intelligent Process Automation).
+UiPath RPA fundamentals — daily practice workflows built as part of PEP.
 
 ## Day-1
 
