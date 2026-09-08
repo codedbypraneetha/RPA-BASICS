@@ -1,0 +1,8 @@
+.objects/
+.settings/
+.tmh/
+.project/
+.templates/
+.entities/
+*.uiproj.user
+.local/
