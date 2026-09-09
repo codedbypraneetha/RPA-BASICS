@@ -70,6 +70,70 @@ Conditional logic workflows covering If, If-Else, and Else-If constructs:
 
 
 
+\## Day-3
+
+
+
+\### Arrays
+
+| File | Task |
+
+|---|---|
+
+| Array.basic.xaml | Basic array operations |
+
+| average of array.xaml | Calculate average of array elements |
+
+| Largest of number.xaml | Find largest number in array |
+
+| reverse an array.xaml | Reverse array elements |
+
+| Sort by Alphabetical Order.xaml | Sort array alphabetically |
+
+
+
+\### List
+
+| File | Task |
+
+|---|---|
+
+| Display names of employees.xaml | Display employee names from a list |
+
+| Element found or No.xaml | Check if element exists in list |
+
+| Elements found or not (without contains).xaml | Check element existence without Contains method |
+
+| Empty List.xaml | Check if list is empty |
+
+| Identify even number of rows.xaml | Identify even-numbered rows |
+
+| Name found or not.xaml | Search for a name in list |
+
+| Sum of Elements.xaml | Sum all elements in list |
+
+
+
+\### Looping Statements
+
+| File | Task |
+
+|---|---|
+
+| Counter Timer.xaml | Counter/timer loop |
+
+| Employee Validation.xaml | Loop-based employee validation |
+
+| Fibonacci Series.xaml | Generate Fibonacci series |
+
+| Number Guessing.xaml | Number guessing loop |
+
+| Random number generator.xaml | Generate random numbers |
+
+| Sum of n numbers.xaml | Sum of first n numbers |
+
+
+
 \## Tech
 
 UiPath Studio, XAML workflows.
