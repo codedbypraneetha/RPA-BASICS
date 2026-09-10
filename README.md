@@ -72,7 +72,6 @@ UiPath RPA fundamentals — daily practice workflows built as part of PEPC-10.
 | Extract numbers from text.xaml | Extract numeric values from a string |
 | Remove special characters.xaml | Strip special characters from a string |
 | Check _urgent.xaml | Check if a string contains "urgent" |
-| Example.xaml | *(unclear — confirm what this demonstrates)* |
 
 ### Looping Statements
 | File | Task |
