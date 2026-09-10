@@ -60,6 +60,16 @@ UiPath RPA fundamentals — daily practice workflows built as part of PEPC-10.
 | Name found or not.xaml | Search for a name in list |
 | Sum of Elements.xaml | Sum all elements in list |
 
+### Looping Statements
+| File | Task |
+|---|---|
+| Counter Timer.xaml | Counter/timer loop |
+| Employee Validation.xaml | Loop-based employee validation |
+| Fibonacci Series.xaml | Generate Fibonacci series |
+| Number Guessing.xaml | Number guessing loop |
+| Random number generator.xaml | Generate random numbers |
+| Sum of n numbers.xaml | Sum of first n numbers |
+
 ## Day-4
 
 | File | Task |
@@ -72,16 +82,6 @@ UiPath RPA fundamentals — daily practice workflows built as part of PEPC-10.
 | Extract numbers from text.xaml | Extract numeric values from a string |
 | Remove special characters.xaml | Strip special characters from a string |
 | Check _urgent.xaml | Check if a string contains "urgent" |
-
-### Looping Statements
-| File | Task |
-|---|---|
-| Counter Timer.xaml | Counter/timer loop |
-| Employee Validation.xaml | Loop-based employee validation |
-| Fibonacci Series.xaml | Generate Fibonacci series |
-| Number Guessing.xaml | Number guessing loop |
-| Random number generator.xaml | Generate random numbers |
-| Sum of n numbers.xaml | Sum of first n numbers |
 
 ## Tech
 UiPath Studio, XAML workflows.
