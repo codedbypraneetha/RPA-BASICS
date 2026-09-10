@@ -60,6 +60,20 @@ UiPath RPA fundamentals — daily practice workflows built as part of PEPC-10.
 | Name found or not.xaml | Search for a name in list |
 | Sum of Elements.xaml | Sum all elements in list |
 
+## Day-4
+
+| File | Task |
+|---|---|
+| Convert to Upper case.xaml | Convert a string to uppercase |
+| Reverse the text.xaml | Reverse a given string |
+| Split a sentence into words.xaml | Split a sentence into individual words |
+| Combine a list of words into sentence.xaml | Join a list of words into a sentence |
+| Extract the first 5 characters.xaml | Extract the first 5 characters of a string |
+| Extract numbers from text.xaml | Extract numeric values from a string |
+| Remove special characters.xaml | Strip special characters from a string |
+| Check _urgent.xaml | Check if a string contains "urgent" |
+| Example.xaml | *(unclear — confirm what this demonstrates)* |
+
 ### Looping Statements
 | File | Task |
 |---|---|
