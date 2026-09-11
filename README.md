@@ -83,5 +83,29 @@ UiPath RPA fundamentals — daily practice workflows built as part of PEPC-10.
 | Remove special characters.xaml | Strip special characters from a string |
 | Check _urgent.xaml | Check if a string contains "urgent" |
 
+## Day-5
+
+### Files and Folders
+| File | Task |
+|---|---|
+| CreateDynamicFolder.xaml | Create a dynamic folder named with today's date |
+| FilterFiles.xaml | Filter files with a specific extension from a folder |
+| GetLatestFile.xaml | Get the latest file from a specific folder |
+| CheckFolder.xaml | Check if a folder is empty / count files in it |
+| zipandunzip.xaml | Zip/unzip files or folders |
+| Foldercreation.xaml | Folder creation logic |
+| write and append.xaml | Write and append text to a file |
+
+### Working with Multiple Files
+| File | Task |
+|---|---|
+| GetAllFiles.xaml | Loop through a folder and display every file name |
+| FindOnlyExcelFiles.xaml | Loop through a folder and display only .xlsx files |
+
+### Employee Document Management
+| File | Task |
+|---|---|
+| EmployeeDocuments.xaml | Read files from Input, sort PDFs and Excel files into separate folders, track and display total/PDF/Excel counts |
+
 ## Tech
 UiPath Studio, XAML workflows.
