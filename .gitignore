@@ -5,4 +5,5 @@
 .templates/
 .entities/
 *.uiproj.user
-.local/
+.local/.local/ 
+.local/ 
