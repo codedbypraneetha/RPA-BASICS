@@ -107,5 +107,16 @@ UiPath RPA fundamentals — daily practice workflows built as part of PEPC-10.
 |---|---|
 | EmployeeDocuments.xaml | Read files from Input, sort PDFs and Excel files into separate folders, track and display total/PDF/Excel counts |
 
+## Day-6
+
+| File | Task |
+|---|---|
+| join pdf.xaml | Join/merge multiple PDF files into one |
+| page count.xaml | Get the total page count of a PDF |
+| page range.xaml | Extract a specific page range from a PDF |
+| pdf with ocr.xaml | Read PDF content using OCR |
+| read pdf.xaml | Read text content from a PDF |
+| extract image.xaml | Extract images from a PDF |
+
 ## Tech
 UiPath Studio, XAML workflows.
