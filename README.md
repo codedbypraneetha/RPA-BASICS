@@ -124,28 +124,6 @@ UiPath RPA fundamentals — daily practice workflows built as part of PEPC-10.
 |read pdf.xaml|Read text content from a PDF|
 |extract image.xaml|Extract images from a PDF|
 
-## 
-
-\## Day-7
-
-
-
-| File | Task |
-
-|---|---|
-
-| filter.xaml | Filter data in Excel |
-
-| read\_range.xaml | Read a range of cells from Excel |
-
-| writecell\_readrange.xaml | Write to a cell and read a range in Excel |
-
-| protectsheet.xaml | Protect an Excel sheet |
-
-| excel\_pdf.xaml | Convert Excel data to PDF |
-
-| Fee\_Status.xaml | Check/update fee status (likely Excel-driven) |
-
 
 
 ## Tech
