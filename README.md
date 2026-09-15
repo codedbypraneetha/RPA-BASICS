@@ -4,119 +4,151 @@ UiPath RPA fundamentals — daily practice workflows built as part of PEPC-10.
 
 ## Day-1
 
-| File | Task |
-|---|---|
-| Assign.1.xaml | Display a Greeting |
-| Assign.2.xaml | Add Two Numbers |
-| Assign.3.xaml | Subtract Two Numbers |
-| Assign.4.xaml | Multiply Two Numbers |
-| Assign.5.xaml | Concatenate Two Words |
-| Assign.6.xaml | Create a Simple Full Name Generator |
-| Assign.7.xaml | Ask for User's Name |
-| Assign.8/ | Pass a Number Between Workflows |
-| Assign.9/ | Pass a Name to Another Workflow |
-| Assign.10/ | Employee Salary Calculation Using Arguments |
+|File|Task|
+|-|-|
+|Assign.1.xaml|Display a Greeting|
+|Assign.2.xaml|Add Two Numbers|
+|Assign.3.xaml|Subtract Two Numbers|
+|Assign.4.xaml|Multiply Two Numbers|
+|Assign.5.xaml|Concatenate Two Words|
+|Assign.6.xaml|Create a Simple Full Name Generator|
+|Assign.7.xaml|Ask for User's Name|
+|Assign.8/|Pass a Number Between Workflows|
+|Assign.9/|Pass a Name to Another Workflow|
+|Assign.10/|Employee Salary Calculation Using Arguments|
 
 ## Day-2
 
-| File | Task |
-|---|---|
-| Positive or not.xaml | Check if a given number is positive |
-| string is empty or not.xaml | Verify if a string is not empty |
-| Same day or no.xaml | Check if today's date matches a specified date |
-| Odd or Even.xaml | Check if a number is even or odd |
-| string starts with A or not.xaml | Validate if a string starts with "A" |
-| Temperature above 30 degree.xaml | Check if temperature is above 30°C (Hot/Cool) |
-| String length is greater than 5 or not.xaml | Check if string length is greater than 5 |
-| Grade of a student.xaml | Determine student grade from marks (A/B/C) |
-| Negative,Positive,Zero.xaml | Categorize a number as negative, zero, or positive |
-| Leap year or not.xaml | Determine if a year is a leap year |
-| employee validation.xaml | Validate employee eligibility (age, salary, department) |
-| employee bonus eligibility.xaml | Rate/determine employee bonus eligibility |
-| Discount calculator.xaml | Calculate discount based on conditions |
-| Loan Acceptance.xaml | Decide loan acceptance based on conditions |
-| Order statues.xaml | Determine order status logic |
-| Weather recommendation.xaml | Recommend action based on weather condition |
+|File|Task|
+|-|-|
+|Positive or not.xaml|Check if a given number is positive|
+|string is empty or not.xaml|Verify if a string is not empty|
+|Same day or no.xaml|Check if today's date matches a specified date|
+|Odd or Even.xaml|Check if a number is even or odd|
+|string starts with A or not.xaml|Validate if a string starts with "A"|
+|Temperature above 30 degree.xaml|Check if temperature is above 30°C (Hot/Cool)|
+|String length is greater than 5 or not.xaml|Check if string length is greater than 5|
+|Grade of a student.xaml|Determine student grade from marks (A/B/C)|
+|Negative,Positive,Zero.xaml|Categorize a number as negative, zero, or positive|
+|Leap year or not.xaml|Determine if a year is a leap year|
+|employee validation.xaml|Validate employee eligibility (age, salary, department)|
+|employee bonus eligibility.xaml|Rate/determine employee bonus eligibility|
+|Discount calculator.xaml|Calculate discount based on conditions|
+|Loan Acceptance.xaml|Decide loan acceptance based on conditions|
+|Order statues.xaml|Determine order status logic|
+|Weather recommendation.xaml|Recommend action based on weather condition|
 
 ## Day-3
 
 ### Arrays
-| File | Task |
-|---|---|
-| Array.basic.xaml | Basic array operations |
-| average of array.xaml | Calculate average of array elements |
-| Largest of number.xaml | Find largest number in array |
-| reverse an array.xaml | Reverse array elements |
-| Sort by Alphabetical Order.xaml | Sort array alphabetically |
+
+|File|Task|
+|-|-|
+|Array.basic.xaml|Basic array operations|
+|average of array.xaml|Calculate average of array elements|
+|Largest of number.xaml|Find largest number in array|
+|reverse an array.xaml|Reverse array elements|
+|Sort by Alphabetical Order.xaml|Sort array alphabetically|
 
 ### List
-| File | Task |
-|---|---|
-| Display names of employees.xaml | Display employee names from a list |
-| Element found or No.xaml | Check if element exists in list |
-| Elements found or not (without contains).xaml | Check element existence without Contains method |
-| Empty List.xaml | Check if list is empty |
-| Identify even number of rows.xaml | Identify even-numbered rows |
-| Name found or not.xaml | Search for a name in list |
-| Sum of Elements.xaml | Sum all elements in list |
+
+|File|Task|
+|-|-|
+|Display names of employees.xaml|Display employee names from a list|
+|Element found or No.xaml|Check if element exists in list|
+|Elements found or not (without contains).xaml|Check element existence without Contains method|
+|Empty List.xaml|Check if list is empty|
+|Identify even number of rows.xaml|Identify even-numbered rows|
+|Name found or not.xaml|Search for a name in list|
+|Sum of Elements.xaml|Sum all elements in list|
 
 ### Looping Statements
-| File | Task |
-|---|---|
-| Counter Timer.xaml | Counter/timer loop |
-| Employee Validation.xaml | Loop-based employee validation |
-| Fibonacci Series.xaml | Generate Fibonacci series |
-| Number Guessing.xaml | Number guessing loop |
-| Random number generator.xaml | Generate random numbers |
-| Sum of n numbers.xaml | Sum of first n numbers |
+
+|File|Task|
+|-|-|
+|Counter Timer.xaml|Counter/timer loop|
+|Employee Validation.xaml|Loop-based employee validation|
+|Fibonacci Series.xaml|Generate Fibonacci series|
+|Number Guessing.xaml|Number guessing loop|
+|Random number generator.xaml|Generate random numbers|
+|Sum of n numbers.xaml|Sum of first n numbers|
 
 ## Day-4
 
-| File | Task |
-|---|---|
-| Convert to Upper case.xaml | Convert a string to uppercase |
-| Reverse the text.xaml | Reverse a given string |
-| Split a sentence into words.xaml | Split a sentence into individual words |
-| Combine a list of words into sentence.xaml | Join a list of words into a sentence |
-| Extract the first 5 characters.xaml | Extract the first 5 characters of a string |
-| Extract numbers from text.xaml | Extract numeric values from a string |
-| Remove special characters.xaml | Strip special characters from a string |
-| Check _urgent.xaml | Check if a string contains "urgent" |
+|File|Task|
+|-|-|
+|Convert to Upper case.xaml|Convert a string to uppercase|
+|Reverse the text.xaml|Reverse a given string|
+|Split a sentence into words.xaml|Split a sentence into individual words|
+|Combine a list of words into sentence.xaml|Join a list of words into a sentence|
+|Extract the first 5 characters.xaml|Extract the first 5 characters of a string|
+|Extract numbers from text.xaml|Extract numeric values from a string|
+|Remove special characters.xaml|Strip special characters from a string|
+|Check \_urgent.xaml|Check if a string contains "urgent"|
 
 ## Day-5
 
 ### Files and Folders
-| File | Task |
-|---|---|
-| CreateDynamicFolder.xaml | Create a dynamic folder named with today's date |
-| FilterFiles.xaml | Filter files with a specific extension from a folder |
-| GetLatestFile.xaml | Get the latest file from a specific folder |
-| CheckFolder.xaml | Check if a folder is empty / count files in it |
-| zipandunzip.xaml | Zip/unzip files or folders |
-| Foldercreation.xaml | Folder creation logic |
-| write and append.xaml | Write and append text to a file |
+
+|File|Task|
+|-|-|
+|CreateDynamicFolder.xaml|Create a dynamic folder named with today's date|
+|FilterFiles.xaml|Filter files with a specific extension from a folder|
+|GetLatestFile.xaml|Get the latest file from a specific folder|
+|CheckFolder.xaml|Check if a folder is empty / count files in it|
+|zipandunzip.xaml|Zip/unzip files or folders|
+|Foldercreation.xaml|Folder creation logic|
+|write and append.xaml|Write and append text to a file|
 
 ### Working with Multiple Files
-| File | Task |
-|---|---|
-| GetAllFiles.xaml | Loop through a folder and display every file name |
-| FindOnlyExcelFiles.xaml | Loop through a folder and display only .xlsx files |
+
+|File|Task|
+|-|-|
+|GetAllFiles.xaml|Loop through a folder and display every file name|
+|FindOnlyExcelFiles.xaml|Loop through a folder and display only .xlsx files|
 
 ### Employee Document Management
-| File | Task |
-|---|---|
-| EmployeeDocuments.xaml | Read files from Input, sort PDFs and Excel files into separate folders, track and display total/PDF/Excel counts |
+
+|File|Task|
+|-|-|
+|EmployeeDocuments.xaml|Read files from Input, sort PDFs and Excel files into separate folders, track and display total/PDF/Excel counts|
 
 ## Day-6
 
+|File|Task|
+|-|-|
+|join pdf.xaml|Join/merge multiple PDF files into one|
+|page count.xaml|Get the total page count of a PDF|
+|page range.xaml|Extract a specific page range from a PDF|
+|pdf with ocr.xaml|Read PDF content using OCR|
+|read pdf.xaml|Read text content from a PDF|
+|extract image.xaml|Extract images from a PDF|
+
+## 
+
+\## Day-7
+
+
+
 | File | Task |
+
 |---|---|
-| join pdf.xaml | Join/merge multiple PDF files into one |
-| page count.xaml | Get the total page count of a PDF |
-| page range.xaml | Extract a specific page range from a PDF |
-| pdf with ocr.xaml | Read PDF content using OCR |
-| read pdf.xaml | Read text content from a PDF |
-| extract image.xaml | Extract images from a PDF |
+
+| filter.xaml | Filter data in Excel |
+
+| read\_range.xaml | Read a range of cells from Excel |
+
+| writecell\_readrange.xaml | Write to a cell and read a range in Excel |
+
+| protectsheet.xaml | Protect an Excel sheet |
+
+| excel\_pdf.xaml | Convert Excel data to PDF |
+
+| Fee\_Status.xaml | Check/update fee status (likely Excel-driven) |
+
+
 
 ## Tech
+
 UiPath Studio, XAML workflows.
+
