@@ -128,7 +128,6 @@ UiPath RPA fundamentals -- daily practice workflows built as part of PEPC-10.
 | writecell_readrange.xaml | Write to a cell and read a range in Excel |
 | protectsheet.xaml | Protect an Excel sheet |
 | excel_pdf.xaml | Convert Excel data to PDF |
-| Fee_Status.xaml | Check/update fee status (likely Excel-driven) |
 
 ## Tech
 UiPath Studio, XAML workflows.
