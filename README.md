@@ -129,5 +129,14 @@ UiPath RPA fundamentals -- daily practice workflows built as part of PEPC-10.
 | protectsheet.xaml | Protect an Excel sheet |
 | excel_pdf.xaml | Convert Excel data to PDF |
 
+## Day-8
+
+| File | Task |
+|---|---|
+| excel_input.xaml | Read/write input data from Excel |
+| Browser.xlsx | Supporting Excel data file |
+| weather.xaml | Reads Browser and Saves the Humidity and Temperature in Browser.xlsx |
+| LinkedInPost.xaml | Automates LinkedIn Post automatically |
+
 ## Tech
 UiPath Studio, XAML workflows.
